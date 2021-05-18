@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">200dp</dimen>
+    <dimen name="hide_height">100dp</dimen>
+
+    <dimen name="sub_header_margin">95dp</dimen>
+    <dimen name="header_margin_left">20dp</dimen>
+</resources>
